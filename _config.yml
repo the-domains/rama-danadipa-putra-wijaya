@@ -1,0 +1,37 @@
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.23776200506836176
+  lightness: 0.5980481640435755
+  saturation: 0.6854864940978587
+  rhythmicContrast: 0.4742204777430743
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Rama Danadipa Putra Wijaya
+layout_spectrum: 0.15002909861505032
+typography_spectrum: 0.058759977808222175
+content: []
+title: Rama Danadipa Putra Wijaya
+description: 'New Site By Rama Danadipa Putra Wijaya.Email:ramadanadipa176@gmail.com'
+purpose:
+  - type: contact
+    url: 'mailto:ramadanadipa176@gmail.com'
+    label: '6285735315176'
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/756f9073-ad2e-4ca7-87c6-e08d77e6efd7.jpg
+author:
+  name: Rama Danadipa Putra W
+  email: ramadanadipa176@gmail.com
+  url: 'http://ramadanadipa.asia'
+analytics:
+  twitter: twitter.com/rama_danadipa56
